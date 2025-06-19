@@ -78,5 +78,6 @@ WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dal
 - **Railway / Render / Vercel** untuk deployment
 - **CI/CD Setup (GitHub Actions optional)**
 
----
+Railway  : [https://s-ilogy-s-imanis-fe-git-main-tiannamamus-projects.vercel.app/login](https://silogyexpowebsimanis-production.up.railway.app/)
+Vercel   : https://s-ilogy-s-imanis-fe-git-main-tiannamamus-projects.vercel.app/login
 
