@@ -57,58 +57,72 @@ WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dal
 
 ### 🔐 Login
 #### 🖥️ Tampilan Login Desktop
-![Tampilan Login Desktop](./images/desktop-login.png)
+![Tampilan Login Desktop](./images/desktop%20login.png)
 
 #### 📱 Tampilan Login Android
-![Tampilan Login Android](./images/android-login.png)
+![Tampilan Login Android](./images/android%20login.png)
 
 ---
 
 ### 📝 Halaman Daftar
 #### 🖥️ Daftar Desktop
-![Daftar Desktop](./images/daftar-desktop.png)
+![Daftar Desktop](./images/daftar%20desktop.png)
 
 #### 📱 Daftar Android
-![Daftar Android](./images/daftar-android.png)
+![Daftar Android](./images/daftar%20android.png)
 
 ---
 
 ### 🏠 Beranda
-![Beranda Desktop](./images/beranda-desktop.png)
+![Beranda Desktop](./images/beranda%20dekstop.png)
 
 ---
 
 ### 🔒 Lupa Password - Tahap 1
 #### 🖥️ Desktop
-![Lupa Password Tahap 1 Desktop](./images/lupa-password1-desktop.png)
+![Lupa Password Tahap 1 Desktop](./images/lupa%20password%20tahap%201%20desktop.png)
 
 #### 📱 Android
-![Lupa Password Tahap 1 Android](./images/lupa-password1-android.png)
+![Lupa Password Tahap 1 Android](./images/lupa%20password%20tahap%201%20android.png)
 
 ---
 
 ### 👥 Tim Kami
-![Tim Kami](./images/tim-kami.png)
+![Tim Kami](./images/tim%20kami.png)
+
+---
+
+### 🙋‍♂️ Relawan
+![Relawan Desktop](./images/relawan%20desktop.png)
 
 ---
 
 ### 🗺️ Laporan & Peta Aksi
 #### 📌 Peta Aksi di Beranda
-![Peta Aksi Beranda](./images/laporan-aksi-peta-beranda.png)
+![Peta Aksi Beranda](./images/laporan%20aski%20peta%20beranda.png)
 
 #### 📝 Laporan Kerusakan Lingkungan
-![Laporan Lingkungan](./images/laporan-lingkungan.png)
+![Laporan Lingkungan](./images/laporan%20lingkungan.png)
 
 ---
 
 ### 🌳 Lokasi Hijau
-![Lokasi Hijau](./images/lokasi-hijau.png)
+![Lokasi Hijau](./images/lokasi%20hijau.png)
+
+---
+
+### 🧺 Bank Sampah
+![Bank Sampah](./images/bank%20sampah.png)
+
+---
+
+### 🌱 Event Tanam Pohon
+![Event Tanam Pohon](./images/event%20tanam%20pohon.png)
 
 ---
 
 ### 🗃️ Tampilan Database (Admin/Backend)
 ![Database](./images/database.png)
-
 
 
 
