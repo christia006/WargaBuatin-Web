@@ -53,7 +53,64 @@ WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dal
 - Form kontak langsung (dengan validasi backend)
 - FAQ seputar pelestarian lingkungan
 
+## 🖼️ Galeri Tampilan Aplikasi
+
+### 🔐 Login
+#### 🖥️ Tampilan Login Desktop
+![Tampilan Login Desktop](./images/desktop-login.png)
+
+#### 📱 Tampilan Login Android
+![Tampilan Login Android](./images/android-login.png)
+
 ---
+
+### 📝 Halaman Daftar
+#### 🖥️ Daftar Desktop
+![Daftar Desktop](./images/daftar-desktop.png)
+
+#### 📱 Daftar Android
+![Daftar Android](./images/daftar-android.png)
+
+---
+
+### 🏠 Beranda
+![Beranda Desktop](./images/beranda-desktop.png)
+
+---
+
+### 🔒 Lupa Password - Tahap 1
+#### 🖥️ Desktop
+![Lupa Password Tahap 1 Desktop](./images/lupa-password1-desktop.png)
+
+#### 📱 Android
+![Lupa Password Tahap 1 Android](./images/lupa-password1-android.png)
+
+---
+
+### 👥 Tim Kami
+![Tim Kami](./images/tim-kami.png)
+
+---
+
+### 🗺️ Laporan & Peta Aksi
+#### 📌 Peta Aksi di Beranda
+![Peta Aksi Beranda](./images/laporan-aksi-peta-beranda.png)
+
+#### 📝 Laporan Kerusakan Lingkungan
+![Laporan Lingkungan](./images/laporan-lingkungan.png)
+
+---
+
+### 🌳 Lokasi Hijau
+![Lokasi Hijau](./images/lokasi-hijau.png)
+
+---
+
+### 🗃️ Tampilan Database (Admin/Backend)
+![Database](./images/database.png)
+
+
+
 
 ## 🧠 Skill & Teknologi yang Digunakan
 
