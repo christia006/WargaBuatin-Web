@@ -146,6 +146,13 @@ WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dal
 - **Railway / Render / Vercel** untuk deployment
 - **CI/CD Setup (GitHub Actions optional)**
 
+  ## 🎥 Video Penjelasan Website
+
+Klik gambar di bawah ini untuk menonton penjelasan lengkap WargaBuatin di YouTube:
+
+[![Tonton Video Penjelasan](https://img.youtube.com/vi/abc123xyz/0.jpg)](https://www.youtube.com/watch?v=abc123xyz)
+
+
 Railway  : [https://s-ilogy-s-imanis-fe-git-main-tiannamamus-projects.vercel.app/login](https://silogyexpowebsimanis-production.up.railway.app/)
 
 Vercel   : https://s-ilogy-s-imanis-fe-git-main-tiannamamus-projects.vercel.app/login
