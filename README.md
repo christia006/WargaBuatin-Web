@@ -1,15 +1,11 @@
 <div align="center">
 
 # 🌱 **WargaBuatin — Platform Aksi Hijau Digital**
+**Versi:** 1.0.0  
 
 *WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dalam menjaga lingkungan.  
 Mengintegrasikan peta interaktif, laporan lingkungan, edukasi, forum komunitas, dan event sosial — ditenagai oleh backend dinamis dan frontend interaktif.*
 
-**Versi:** 1.0.0  
-
-[![last commit](https://img.shields.io/badge/last%20commit-today-brightgreen)](#)
-[![frontend](https://img.shields.io/badge/React-18.0-blue?logo=react&logoColor=white)](#)
-[![backend](https://img.shields.io/badge/Node.js-Express-green?logo=node.js&logoColor=white)](#)
 
 *Built with the tools and technologies:*
 
