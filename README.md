@@ -150,7 +150,7 @@ WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dal
 
 Klik gambar di bawah ini untuk menonton penjelasan lengkap WargaBuatin di YouTube:
 
-[![Tonton Video Penjelasan](https://img.youtube.com/vi/abc123xyz/0.jpg)]([https://www.youtube.com/watch?v=abc123xyz](https://youtu.be/dtSxJMTZ29M))
+[![Tonton Video Penjelasan](https://img.youtube.com/vi/abc123xyz/0.jpg)]([https://www.youtube.com/watch?v=dtSxJMTZ29M))
 
 
 Railway  : [https://s-ilogy-s-imanis-fe-git-main-tiannamamus-projects.vercel.app/login](https://silogyexpowebsimanis-production.up.railway.app/)
