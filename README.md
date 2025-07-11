@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🌱 **WargaBuatin — Platform Aksi Hijau Digital**
-**Versi:** 1.0.0  
 
 *WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dalam menjaga lingkungan.  
 Mengintegrasikan peta interaktif, laporan lingkungan, edukasi, forum komunitas, dan event sosial — ditenagai oleh backend dinamis dan frontend interaktif.*
