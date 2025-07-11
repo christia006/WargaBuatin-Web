@@ -1,54 +1,41 @@
-# 🌱 WargaBuatin - Platform Aksi Hijau Digital
-
 **Versi:** 1.0.0  
-**Developer:**
-- **Backend:** Christian J. Hutahaean  
-- **Frontend:** Elkana M. Yosafat Sitorus  
 
-WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dalam menjaga lingkungan. Proyek ini mengintegrasikan peta interaktif, laporan lingkungan, edukasi, forum komunitas, dan event sosial, ditenagai oleh backend dinamis dan frontend interaktif.
+**Developer:**  
+- 🛠 **Backend:** Christian J. Hutahaean  
+- 🎨 **Frontend:** Elkana M. Yosafat Sitorus
 
----
+[![last commit](https://img.shields.io/badge/last%20commit-today-brightgreen)](#)
+[![frontend](https://img.shields.io/badge/React-18.0-blue?logo=react&logoColor=white)](#)
+[![backend](https://img.shields.io/badge/Node.js-Express-green?logo=node.js&logoColor=white)](#)
 
-## 🚀 Fitur Utama
+*Built with the tools and technologies:*
 
-### 🏠 1. Beranda
-- Hero section dengan visual emosional dan tombol CTA (Call to Action)
-- Statistik dampak nyata (jumlah relawan, laporan kerusakan, dan bank sampah)
-- Peta aksi hijau (lokasi relawan & aksi aktual)
-- Ajakan aksi lanjut: "Gabung Komunitas" atau "Laporkan Sekarang"
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?logo=leaflet&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?logo=google-maps&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
 
-### 🌍 2. Aksi Hijau
-- **Laporan Lingkungan**: Form laporan kerusakan lingkungan (lokasi, deskripsi, foto) dengan peta pin interaktif.
-- **Peta Lokasi Hijau**: Filter taman, RTH, dan bank sampah (Leaflet.js / Google Maps API).
-- **Bank Sampah**: Daftar mitra bank sampah + form pendaftaran.
-- **Event Tanam Pohon**: Kalender & pendaftaran event (real-time).
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-FFCA28?logo=javascript&logoColor=black)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-ffcc00?logo=mail.ru&logoColor=white)
 
-### 📚 3. Edukasi
-- Artikel dan infografis tips hidup ramah lingkungan.
-- Embed video edukasi dari YouTube (dengan playlist terkurasi berdasarkan kategori).
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
-### 👥 4. Komunitas
-- Profil relawan & formulir pendaftaran
-- Forum diskusi (kategori: sampah, tanaman, gaya hidup hijau)
-- Event komunitas: gotong royong, kampanye, diskusi
+</div>
 
-### ✍️ 5. Blog
-- Cerita inspiratif dari masyarakat
-- Tips membangun komunitas hijau
-- Dinamis (admin/user bisa submit konten)
-
-### 🗣️ 6. Testimoni
-- Ucapan dari pengguna dan relawan hijau
-- Testimoni dinamis dari masyarakat
-
-### 🏢 7. Tentang Kami
-- Visi: Indonesia Hijau 2045
-- Misi: Edukasi, Aksi Nyata, dan Inovasi Digital
-- Profil tim pengembang
-
-### 📞 8. Kontak
-- Form kontak langsung (dengan validasi backend)
-- FAQ seputar pelestarian lingkungan
 
 ## 🖼️ Galeri Tampilan Aplikasi
 
@@ -123,28 +110,6 @@ WargaBuatin adalah platform digital untuk mendorong kesadaran dan aksi nyata dal
 
 
 
-## 🧠 Skill & Teknologi yang Digunakan
-
-### Frontend
-- **HTML5, CSS3, JavaScript (React)**
-- **Bootstrap  CSS**
-- **Leaflet.js / Google Maps API**
-- **Axios** (untuk komunikasi API)
-- **Responsive UI** dengan teknik Mobile-First Design
-
-### Backend
-- **Node.js + Express.js**
-- **REST API Development**
-- **MongoDB / PostgreSQL** (Statistik, Users, Reports, Events, Forum)
-- **JWT Authentication & Role Management**
-- **Password Hashing** (bcrypt)
-- **Forgot Password via Email (nodemailer)**
-
-### Deployment & Tools
-- **Git & GitHub**
-- **Postman (API testing)**
-- **Railway / Render / Vercel** untuk deployment
-- **CI/CD Setup (GitHub Actions optional)**
 
   ## 🎥 Video Penjelasan Website
 
