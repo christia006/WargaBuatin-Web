@@ -20,7 +20,6 @@ Mengintegrasikan peta interaktif, laporan lingkungan, edukasi, forum komunitas, 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-FFCA28?logo=javascript&logoColor=black)
@@ -29,7 +28,6 @@ Mengintegrasikan peta interaktif, laporan lingkungan, edukasi, forum komunitas, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
